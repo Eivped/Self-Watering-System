@@ -1,2 +1,2 @@
-# Self-watering-system-Raspberry-Pi-
-Skoleprosjekt
+# Self Watering System (Raspberry-Pi)
+
