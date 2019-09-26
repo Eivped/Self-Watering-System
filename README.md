@@ -1,2 +1,2 @@
-# Self Watering System (Raspberry-Pi)
+# Self Watering System (Raspberry Pi)
 
