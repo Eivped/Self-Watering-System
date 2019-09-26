@@ -13,8 +13,13 @@ Our team have never createt a project like this before, so we are looking forwar
 - Setting up the raspberry and connect the soil moisture sensor 
 - Get values from the soil moisture sensor through the raspberry 
 - Create a source code that opens a valve/run a water pump based on the value from the soil moisture sensor
-- Implement the Blynk application into our code so that we could see the soil moisture levels on our phones
-- Implement a function that open the valve/run a water pump through the Blynk application
+
+Blynk:
+ - Implement the Blynk application into our code so that we could see the soil moisture levels on our phones
+ - Implement a function that open the valve/run a water pump through the Blynk application
+ - Implement a function that read temperature and display it on Blynk
+ - Implement a function that check the battery status and display in on Blynk 
+ - Check the amout water that is in the container (extra sensor, watersensor)
 
 ## Result
 
