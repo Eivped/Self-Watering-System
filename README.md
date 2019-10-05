@@ -27,15 +27,15 @@ Blynk:
 
 This is some of the sources that we have looked at before we have started our project.
 
-- https://www.hackster.io/ben-eagan/raspberry-pi-automated-plant-watering-with-website-8af2dc?fbclid=IwAR2rEpD0V7SEx4g1vGgj0U8mOxeUxVy_Q9KWB-vI02odI4YQJSIKDzuGXjQ
+- [Raspberry Pi Automated Plant Watering with Website](https://www.hackster.io/ben-eagan/raspberry-pi-automated-plant-watering-with-website-8af2dc?fbclid=IwAR2rEpD0V7SEx4g1vGgj0U8mOxeUxVy_Q9KWB-vI02odI4YQJSIKDzuGXjQ)
 
-- http://www.cyber-omelette.com/2017/09/automated-plant-watering.html
+- [Raspberry Pi Automated Plant Watering with Website Video](https://www.youtube.com/watch?v=mQNJpWkdmbc&fbclid=IwAR2Lyb3M1nQq5Sxov5kAUKKsR2CUb9sm5UqoXmdDzFW9va9EiDJQGwjvSc0)
 
-- https://www.youtube.com/watch?v=mQNJpWkdmbc&fbclid=IwAR2Lyb3M1nQq5Sxov5kAUKKsR2CUb9sm5UqoXmdDzFW9va9EiDJQGwjvSc0
+- [Automated Plant Watering with a Raspberry Pi](http://www.cyber-omelette.com/2017/09/automated-plant-watering.html)
 
-- https://www.youtube.com/watch?v=9LxrX5Eeukg&fbclid=IwAR0FE4Wo4NlOYpyUm4fB3W9ZQpody4zdgLYMwzWjMiEy8pgzE_xLgZLLtiQ
+- [Soil Moisture Sensor (Raspberry Pi) Video](https://www.youtube.com/watch?v=9LxrX5Eeukg&fbclid=IwAR0FE4Wo4NlOYpyUm4fB3W9ZQpody4zdgLYMwzWjMiEy8pgzE_xLgZLLtiQ)
 
-- http://www.piddlerintheroot.com/soil-moisture-sensor/
+- [Soil Moisture Sensor](http://www.piddlerintheroot.com/soil-moisture-sensor/)
 
 ## Requirements
 Essensielt equipment:
