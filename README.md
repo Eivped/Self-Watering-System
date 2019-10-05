@@ -49,6 +49,33 @@ Essensielt equipment:
 
 In addition to this equipment, we are going to use our own laptops (pc and mac) as well as our phones (IOS - iPhones)
 
+## First meating with Blynk (Application)
+Through the study we are taking, IT and information systems, we have a subject called Internet Technologies. In this subject we have covered everything from IoT, AI, machine learning and more. In addition to this, we have this project that we are working on during our 5th semester at Universitetet i Agder, Kristiansand.
+
+One of the tasks we have done is to create an iRAT (Individual Readiness Assurance Test), tRAT (Team Readiness Assurance Test) and an ICA (In Class Activity) which is a form of Team-based learning. We chose to focus on IoT, and generated a test that later was used in class. The questions we created were based on the IoT and the syllabus we went through in class. 
+After we had gathered the results we saw that there were generally good results. This may indicate that we may made too simple questions, poorly formulated alternatives, or that the class is incredibly skilled within IoT (something we obviously believe).
+
+For our ICA (In Class Activity) we chose to give our class the following task: 
+- Connect the Raspberry Pi to a network
+- Build a circuit that uses an LED bulb
+- Set up Blink (App) and control the LED bulb over Wi-Fi
+
+This should basically be pretty straight forward, and it is not very complicated. We thought this might be too easy, but we had limited time on our ICA. If someone had finished quickly, we made an extra assignment:
+- Imagine that the LED bulb poses a fire hazard. Set up a sensor that can measure temperature and alert Blynk in case of temperature increase
+
+Most of the groups managed the first part of the task, but had too little time to start on task two. Our group that was responsible for creating the ICA chose to do the same project with the other students. This was a success and we managed to create the first part of the project. We got started on part two of the task, but had some trouble connecting the temperature sensor to the Raspberry Pi we used.
+
+Souces that we used to do the first part of our ICA:
+- [Blynk help](http://help.blynk.cc/en/articles/583104-how-to-install-node-js-library-on-linux)
+- [Blynk YouTube video](https://www.youtube.com/watch?v=LJ3ic8C8CcA)
+
+One problem that occured during the process of creating this project where that we had problems with installing Node.js NPM package. 
+After some research, we found that there have been several who have come across the same problem. This led us to help.
+- [Problems with installing Node.js NPM package](https://raspberrypi.stackexchange.com/questions/27333/problems-with-installing-node-js-npm-package)
+
+After some Googling and reading, we finally managed to get it to work. 
+This was our first meeting with the application Blynk and we see this as a good experience that we will take with us in the development of our self-watering system.
+
 ## Instructions 
 
 ## Developers
