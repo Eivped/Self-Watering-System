@@ -78,6 +78,32 @@ This was our first meeting with the application Blynk and we see this as a good 
 
 ## Instructions 
 
+### Step 1: Building the circuit
+Building the circuit is the first thing we did to connect sensor to the Raspberry Pi. Since we bought the sensor without doing enough research, we found out that we needed an ADC (Analog-Digital Converter). This meant that we had to create a circuit that was able to receive the signals we received from the sensor and translate it so the Pi understood the information it received. With the help of the internet we came across a useful explanation of how we could solve this problem. The source is linked below. 
+
+- [Measuring soil moisture with raspberry pi](https://tutorials-raspberrypi.com/measuring-soil-moisture-with-raspberry-pi/)
+
+After spending some time connecting everything, we were quite happy with the end result. Here are some pictures of how it all look at this point. 
+
+### Everything hooked up and runs as it should
+![1](https://user-images.githubusercontent.com/35767860/66339658-df4da880-e943-11e9-9e9f-60511cfd9bb2.jpg)
+
+### The soil moisture sensor has power and collects data as it should
+The rope around the cables is mostly for the look, but works as cable management
+![2](https://user-images.githubusercontent.com/35767860/66339813-33588d00-e944-11e9-8ee8-c550af5abdad.jpg)
+
+### Overview of how we connected the wires to the Rasperry's GPIO pins
+We also used electric tape for cable management
+![3](https://user-images.githubusercontent.com/35767860/66339837-3fdce580-e944-11e9-8510-849f2a4e23ab.jpg)
+
+### The connections that we used to connect the ADC to the sensor and raspberry pi
+We had too few jumber cables so we had to be creative and make more of the ones we already had.
+![4](https://user-images.githubusercontent.com/35767860/66339854-4a977a80-e944-11e9-957f-acd7c3a49f7d.jpg)
+
+### This is the way we connected everything (Collected from Raspberry Pi Tutorials - Link bellow the picture)
+![Koblingsforklaring (Pi)](https://user-images.githubusercontent.com/35767860/66340818-52f0b500-e946-11e9-8501-14c8385cb66b.png)
+- [Raspberry Pi Tutorials](https://tutorials-raspberrypi.com/measuring-soil-moisture-with-raspberry-pi/)
+
 ## Developers
 [Aas, Knut Andreas](https://github.com/nokaas) 
 
