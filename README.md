@@ -41,7 +41,8 @@ This is some of the sources that we have looked at before we have started our pr
 Essensielt equipment:
 - Raspberry Pi 3b +                              
 - Jumper cables         
-- Soil moisture sensor                            
+- Soil moisture sensor
+- MPC3008 (ADC)                            
 - Valve/water pump                                
 - Water container
 - PVS Hose 
