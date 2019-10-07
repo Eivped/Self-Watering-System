@@ -101,7 +101,8 @@ We also used electric tape for cable management
 We had too few jumber cables so we had to be creative and make more of the ones we already had.
 ![4](https://user-images.githubusercontent.com/35767860/66339854-4a977a80-e944-11e9-957f-acd7c3a49f7d.jpg)
 
-### This is the way we connected everything (Collected from Raspberry Pi Tutorials - Link bellow the picture)
+### This is the way we connected everything
+Collected from Raspberry Pi Tutorials. Link bellow the picture.
 ![Koblingsforklaring (Pi)](https://user-images.githubusercontent.com/35767860/66340818-52f0b500-e946-11e9-8501-14c8385cb66b.png)
 - [Raspberry Pi Tutorials](https://tutorials-raspberrypi.com/measuring-soil-moisture-with-raspberry-pi/)
 
