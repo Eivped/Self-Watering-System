@@ -7,7 +7,7 @@ The idea is to measure the moisture in the soil to find out if the plant need mo
 
 Thinking: If the moisture level is lower than X -> Open the water valve/run a water pump for X number of seconds.
 
-Our team have never createt a project like this before, so we are looking forward to continue on the project.
+Our team have never create a project like this before, so we are looking forward to continue on the project.
 
 ## Goals of our project
 - Setting up the raspberry and connect the soil moisture sensor 
@@ -38,7 +38,7 @@ This is some of the sources that we have looked at before we have started our pr
 - [Soil Moisture Sensor](http://www.piddlerintheroot.com/soil-moisture-sensor/)
 
 ## Requirements
-Essensielt equipment:
+Essential equipment:
 - Raspberry Pi 3b +                              
 - Jumper cables         
 - Soil moisture sensor
