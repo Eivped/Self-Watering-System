@@ -50,7 +50,7 @@ Essensielt equipment:
 
 In addition to this equipment, we are going to use our own laptops (pc and mac) as well as our phones (IOS - iPhones)
 
-## First meating with Blynk (Application)
+## First meeting with Blynk (Application)
 Through the study we are taking, IT and information systems, we have a subject called Internet Technologies. In this subject we have covered everything from IoT, AI, machine learning and more. In addition to this, we have this project that we are working on during our 5th semester at Universitetet i Agder, Kristiansand.
 
 One of the tasks we have done is to create an iRAT (Individual Readiness Assurance Test), tRAT (Team Readiness Assurance Test) and an ICA (In Class Activity) which is a form of Team-based learning. We chose to focus on IoT, and generated a test that later was used in class. The questions we created were based on the IoT and the syllabus we went through in class. 
