@@ -1,4 +1,4 @@
-### Under development
+### Current project status: Under development
 
 # Self Watering System (Raspberry Pi)
 In this project we have planned to create a self watering system. The reason we want to create this is to find a solution on how we can go on vacation, and come home to plants that are still alive because of regular watering.
