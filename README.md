@@ -24,7 +24,6 @@ Our team have never create a project like this before, so we are looking forward
 ## Result
 
 ## Sources 
-
 This is some of the sources that we have looked at before we have started our project.
 
 - [Raspberry Pi Automated Plant Watering with Website](https://www.hackster.io/ben-eagan/raspberry-pi-automated-plant-watering-with-website-8af2dc?fbclid=IwAR2rEpD0V7SEx4g1vGgj0U8mOxeUxVy_Q9KWB-vI02odI4YQJSIKDzuGXjQ)
@@ -74,7 +73,6 @@ After some Googling and reading, we finally managed to get it to work.
 This was our first meeting with the application Blynk and we see this as a good experience that we will take with us in the development of our self-watering system.
 
 ## Instructions 
-
 ### Step 1: Building the circuit
 Building the circuit is the first thing we did to connect sensor to the Raspberry Pi. Since we bought the sensor without doing enough research, we found out that we needed an ADC (Analog-Digital Converter). This meant that we had to create a circuit that was able to receive the signals we received from the sensor and translate it so the Pi understood the information it received. With the help of the internet we came across a useful explanation of how we could solve this problem. The source is linked below. 
 
