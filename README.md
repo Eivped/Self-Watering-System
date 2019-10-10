@@ -74,7 +74,7 @@ This was our first meeting with the application Blynk and we see this as a good 
 
 ## Instructions 
 
-##Attempts
+## Attempts
 ### Attempt 1:
 Building the circuit is the first thing we did to connect sensor to the Raspberry Pi. Since we bought the sensor without doing enough research, we found out that we needed an ADC (Analog-Digital Converter). This meant that we had to create a circuit that was able to receive the signals we received from the sensor and translate it so the Pi understood the information it received. With the help of the internet we came across a useful explanation of how we could solve this problem. The source is linked below. 
 
