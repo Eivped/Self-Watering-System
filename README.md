@@ -106,8 +106,11 @@ Collected from Raspberry Pi Tutorials. Link bellow the picture.
 - We managed to get some data from the soil moisture sensor. The values that we were introduced to was repeatedly: 35, 255, 550, 860. The highest values was collected when we tested the sensor in water. 35 & 255 is the values that we got when the sensor was dry and not in any soil. 
 - A problem that occured is that we did not get a reliable frequence of measurements. The values varied from 35 to 255 without doing anything with the sensor (not in any soil or water)
 - Anoter problem that occured is that the source code that we used did not always run as it should.
+- We have tried to update Raspbian, as well as every source that we use. Some of the cabeling that we used was not that good and we tried some other cables. This did not work as well as we thought.
 
-We have tried to update Raspian, as well as every source that we use. Some of the cabeling that we used was not that good and we tried some other cables. This did not work as well as we thought.
+## Attempt 2
+- To start of this attempt, we chose to reinstall the raspbian operating system to start off with a clean Raspberry Pi. 
+- At the moment, we are currently waiting for new parts to continue with testing and attempt to create the a good solution for our project. We have now orderd a new soil moisture sensor that we beliveve is going to make our project much easier to implement.
 
 ## Developers
 [Aas, Knut Andreas](https://github.com/nokaas) 
