@@ -73,17 +73,19 @@ After some Googling and reading, we finally managed to get it to work.
 This was our first meeting with the application Blynk and we see this as a good experience that we will take with us in the development of our self-watering system.
 
 ## Instructions 
-### Step 1: Building the circuit
+
+##Attempts
+### Attempt 1:
 Building the circuit is the first thing we did to connect sensor to the Raspberry Pi. Since we bought the sensor without doing enough research, we found out that we needed an ADC (Analog-Digital Converter). This meant that we had to create a circuit that was able to receive the signals we received from the sensor and translate it so the Pi understood the information it received. With the help of the internet we came across a useful explanation of how we could solve this problem. The source is linked below. 
 
 - [Measuring soil moisture with raspberry pi](https://tutorials-raspberrypi.com/measuring-soil-moisture-with-raspberry-pi/)
 
-After spending some time connecting everything, we were quite happy with the end result. Here are some pictures of how it all look at this point. 
+After spending some time connecting everything, we were quite happy with the result. Here are some pictures of how it all look at this point. 
 
 ### Everything hooked up and runs as it should
 ![1](https://user-images.githubusercontent.com/35767860/66339658-df4da880-e943-11e9-9e9f-60511cfd9bb2.jpg)
 
-### The soil moisture sensor has power and collects data as it should
+### The soil moisture sensor has power and collects data
 The rope around the cables is mostly for the look, but works as cable management
 ![2](https://user-images.githubusercontent.com/35767860/66339813-33588d00-e944-11e9-8ee8-c550af5abdad.jpg)
 
@@ -99,6 +101,13 @@ We had too few jumber cables so we had to be creative and make more of the ones 
 Collected from Raspberry Pi Tutorials. Link bellow the picture.
 ![Koblingsforklaring (Pi)](https://user-images.githubusercontent.com/35767860/66340818-52f0b500-e946-11e9-8501-14c8385cb66b.png)
 - [Raspberry Pi Tutorials](https://tutorials-raspberrypi.com/measuring-soil-moisture-with-raspberry-pi/)
+
+### Conclusion for attempt 1 
+- We managed to get some data from the soil moisture sensor. The values that we were introduced to was repeatedly: 35, 255, 550, 860. The highest values was collected when we tested the sensor in water. 35 & 255 is the values that we got when the sensor was dry and not in any soil. 
+- A problem that occured is that we did not get a reliable frequence of measurements. The values varied from 35 to 255 without doing anything with the sensor (not in any soil or water)
+- Anoter problem that occured is that the source code that we used did not always run as it should.
+
+We have tried to update Raspian, as well as every source that we use. Some of the cabeling that we used was not that good and we tried some other cables. This did not work as well as we thought.
 
 ## Developers
 [Aas, Knut Andreas](https://github.com/nokaas) 
