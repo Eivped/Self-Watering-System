@@ -147,6 +147,7 @@ Before we assembled all the parts togehter, we did test them individualy to know
 ![73349276_556064008268810_6843775801989529600_n](https://user-images.githubusercontent.com/35767860/67786434-258fb680-fa6f-11e9-8bdd-03c0d6d4b553.jpg)
 
 ### This is how we connected everything at attempt number 2
+![Attempt22](https://user-images.githubusercontent.com/35767860/67791761-4f011000-fa78-11e9-8109-9c9f839a6f58.jpg)
 
 
 ### Conclution for attempt 2 
