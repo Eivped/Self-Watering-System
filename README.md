@@ -32,15 +32,13 @@ This is some of the sources that we have looked at before we have started our pr
 - [Soil Moisture Sensor (Raspberry Pi) Video](https://www.youtube.com/watch?v=9LxrX5Eeukg&fbclid=IwAR0FE4Wo4NlOYpyUm4fB3W9ZQpody4zdgLYMwzWjMiEy8pgzE_xLgZLLtiQ)
 - [Soil Moisture Sensor](http://www.piddlerintheroot.com/soil-moisture-sensor/)
 
-## Requirements
-Essential equipment:
+## Equipment
 - Raspberry Pi 3b +                              
-- Jumper cables         
+- Jumper cables
 - Soil moisture sensor
-- MPC3008 (ADC)                            
-- Valve/water pump                                
-- Water container
-- PVS Hose 
+- Water pump
+- Water container                                                         
+- PVC tube
 - Blynk Application
 
 In addition to this equipment, we are going to use our own laptops (pc and mac) as well as our phones (IOS - iPhones)
