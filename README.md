@@ -45,6 +45,11 @@ Essential equipment:
 
 In addition to this equipment, we are going to use our own laptops (pc and mac) as well as our phones (IOS - iPhones)
 
+## General information 
+- This is a school project created by students 
+- The programming language that are used in this project is Python
+- We use the knowledge that we have gatherd through the our study program at IT and Informations Systems, Bachelor
+
 ## First meeting with Blynk (Application)
 Through the study we are taking, IT and information systems, we have a subject called Internet Technologies. In this subject we have covered everything from IoT, AI, machine learning and more. In addition to this, we have this project that we are working on during our 5th semester at Universitetet i Agder, Kristiansand.
 
@@ -110,7 +115,9 @@ Collected from Raspberry Pi Tutorials. Link bellow the picture.
 
 ## Attempt 2
 - To start of this attempt, we chose to reinstall the raspbian operating system to start off with a clean Raspberry Pi. 
-- At the moment, we are currently waiting for new parts to continue with testing and attempt to create the a good solution for our project. We have now orderd a new soil moisture sensor that we beliveve is going to make our project much easier to implement.
+- After a period of time we finally got the new parts to continue with testing and attempt to create the a good solution for our project. We have now got a new soil moisture sensor that we beliveve is going to make our project much easier to implement in addition to some other parts as well.
+
+### New parts
 
 ## Developers
 [Aas, Knut Andreas](https://github.com/nokaas) 
