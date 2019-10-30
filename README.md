@@ -21,8 +21,11 @@ Our team have never create a project like this before, so we are looking forward
  - Implement a function that check the battery status and display in on Blynk 
  - Check the amout water that is in the container (extra sensor, watersensor)
 
-## Result
+## Quality assurance
+- Comming soon
 
+## Result
+- Comming soon
 ## Sources 
 This is some of the sources that we have looked at before we have started our project.
 
