@@ -22,10 +22,13 @@ Our team have never create a project like this before, so we are looking forward
  - Check the amout water that is in the container (extra sensor, watersensor)
 
 ## Quality assurance
-- Comming soon
+The way that our team has decited to assure the quality of our product is by doing a form of TDD (Test-driven development). Wikipedia definds test-driven development as a "software development process that depends on the repetition of a very short development cycle: requirements are transformed into very specific test cases, then the software is improved so that the tests run"([Wikipedia, 2019](https://en.wikipedia.org/wiki/Test-driven_development)). 
 
+While developing our product, we focus on one task at the time and test if it works proparly before we move further on to impementing more functionalities. The reason why we use this method of quality assurance is because our team have previous experience with this way of workning. It is also an agile way of working. From previous courses, we have gains positive relations to working with Scrum which also is an agile process framwork. Based on frequently testing during the development process will hopefully lead to a product with solid quality.  
+ 
 ## Result
 - Comming soon
+
 ## Sources 
 This is some of the sources that we have looked at before we have started our project.
 
