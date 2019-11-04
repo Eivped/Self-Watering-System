@@ -25,6 +25,10 @@ Our team have never create a project like this before, so we are looking forward
 The way that our team has decited to assure the quality of our product is by doing a form of TDD (Test-driven development). Wikipedia definds test-driven development as a "software development process that depends on the repetition of a very short development cycle: requirements are transformed into very specific test cases, then the software is improved so that the tests run"([Wikipedia, 2019](https://en.wikipedia.org/wiki/Test-driven_development)). 
 
 While developing our product, we focus on one task at the time and test if it works proparly before we move further on to impementing more functionalities. The reason why we use this method of quality assurance is because our team have previous experience with this way of workning. It is also an agile way of working. From previous courses, we have gains positive relations to working with Scrum which also is an agile process framwork. Based on frequently testing during the development process will hopefully lead to a product with solid quality.  
+
+## UN sustainable development goals
+Our project in relation with UN sustainable development goals.
+![All-SDGs](https://user-images.githubusercontent.com/35767860/68113261-ab8a8200-fef3-11e9-836e-1df7e036fd24.png)
  
 ## Result
 - Comming soon
