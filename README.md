@@ -26,8 +26,15 @@ The way that our team has decited to assure the quality of our product is by doi
 
 While developing our product, we focus on one task at the time and test if it works proparly before we move further on to impementing more functionalities. The reason why we use this method of quality assurance is because our team have previous experience with this way of workning. It is also an agile way of working. From previous courses, we have gains positive relations to working with Scrum which also is an agile process framwork. Based on frequently testing during the development process will hopefully lead to a product with solid quality.  
 
-## UN sustainable development goals
-Our project in relation with UN sustainable development goals.
+
+## UN sustainable development goals (This topic is under development)
+Our project in relation with UN sustainable development goals. These are the sustainable development goals that we expect to have in mind while developing this project. 
+- 7 Afortable and clean energy
+- 9 Industry, innovation and infrastructure 
+- 11 Sustainable cities and communities 
+- 12 Responsible consumption and production
+- 15 Life on land
+- 17 Partnership for the goals 
 ![All-SDGs](https://user-images.githubusercontent.com/35767860/68113261-ab8a8200-fef3-11e9-836e-1df7e036fd24.png)
  
 ## Result
