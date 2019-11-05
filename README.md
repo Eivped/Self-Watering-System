@@ -136,7 +136,7 @@ We have now got a new soil moisture sensor that we beliveve is going to make our
 - [Build a Smart, Automated IoT Plant Irrigation System with Raspberry Pi and PubNub](https://www.pubnub.com/blog/smart-automated-iot-plant-irrigation-system-raspberry-pi-pubnub/)
 - [Soil Moisture Sensor](https://www.piddlerintheroot.com/soil-moisture-sensor/)
 
-### Introduction to our new parts
+## Introduction to our new parts
 
 ### New soil moisture sensor
 We had some problems with the other sensor that we tried out, so we ordered this one. We have seen other simular projects that are using this sensor which was a good step, hopefully,  in the right direction. 
