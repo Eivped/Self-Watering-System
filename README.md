@@ -39,6 +39,7 @@ Our project in relation with UN sustainable development goals. These are the sus
  
 ## Result
 - Comming soon
+- To us as developers: Create a video that shows how the system works  
 
 ## Sources 
 This is some of the sources that we have looked at before we have started our project.
